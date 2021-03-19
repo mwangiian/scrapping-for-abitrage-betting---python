@@ -1,6 +1,6 @@
 # scrapping-for-abitrage-betting---python
 
-This python program scrapped data from 5 different bookmakers in order to find the an abitrage betting opportunity
+This python program scrapped data from 5 different bookmakers in order to find  an abitrage betting opportunity
 the five sites include
 Mozzat bet, betway , betika , mbet and odibet
 
